@@ -1,5 +1,5 @@
 # ELM-Web-Project
-Insturctions on how to use Git
+Instructions on how to use Git
 
 1. Firstly create a new branch from the master branch
 
